@@ -4,6 +4,8 @@ A professional dashboard and automation suite for navigating, tracking, and down
 
 **Official Source:** [Standards New Zealand - Building-related sponsored standards](https://www.standards.govt.nz/sponsored-standards/building-related-sponsored-standards/)
 
+**Current Database:** The list of currently available and tracked documents is maintained in `sponsored-links.json`.
+
 ## 🚀 Recommended Workflow
 
 To refresh the entire library from scratch or update existing data, follow this order:
