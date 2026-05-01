@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Standards NZ Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Pretext for high-performance text measurement -->
+    <script src="https://unpkg.com/pretext@0.0.12/dist/index.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>Standards<span>Explorer</span></h1>
+                <p>New Zealand Building Standards</p>
+            </div>
+            
+            <div class="filter-section">
+                <h3>Filters</h3>
+                <div class="toggle-container">
+                    <label class="switch">
+                        <input type="checkbox" id="latest-only" checked>
+                        <span class="slider round"></span>
+                    </label>
+                    <span>Show Latest Only</span>
+                </div>
+            </div>
+
+            <div class="tag-section">
+                <h3>Categories</h3>
+                <div id="tag-cloud" class="tag-cloud">
+                    <!-- Tags will be injected here -->
+                </div>
+            </div>
+        </aside>
+
+        <main class="content">
+            <header class="top-bar">
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search standards, titles, or abstracts...">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                </div>
+                <div class="stats">
+                    <span id="result-count">0</span> Standards found
+                </div>
+            </header>
+
+            <div id="standards-grid" class="standards-grid">
+                <!-- Cards will be injected here -->
+            </div>
+        </main>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# PDF Library (Downloaded Standards)
+standards/
+
+# JSON Database (Keep if you want shared data, ignore if you want every user to scrape fresh)
+# sponsored-links.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
