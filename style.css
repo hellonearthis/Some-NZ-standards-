@@ -53,16 +53,21 @@ body {
 .sidebar {
   width: 320px;
   flex-shrink: 0;
-  height: 100%;
+  height: 100vh;
   background-color: var(--bg-sidebar);
   border-right: 1px solid var(--border);
   padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 2.5rem;
-  overflow-y: auto;
+  display: block;
+  overflow-y: scroll; /* Force scrollbar to ensure it's functional */
   scrollbar-width: thin;
   scrollbar-color: var(--border) transparent;
+}
+
+.sidebar-header, 
+.filter-section, 
+.category-section, 
+.tag-section {
+  margin-bottom: 2.5rem;
 }
 
 .sidebar::-webkit-scrollbar {
@@ -254,7 +259,7 @@ input:checked + .slider:before {
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;
-  padding-bottom: 2rem; /* Add padding at bottom for better scrolling */
+  padding-bottom: 100px; /* Large bottom clearance to ensure tags are visible above browser chrome */
 }
 
 /* Custom Scrollbar for Sidebar */
