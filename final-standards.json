@@ -1,0 +1,1845 @@
+[
+  {
+    "originalNumber": "NZS 1170.5:2004",
+    "originalDescription": "Structural design actions – Part 5: Earthquake actions – New Zealand Commentary",
+    "foundTitle": "NZS 1170.5 Supp 1:2004 (Excludes Amdt 1)\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-1170-5-SUPP-12004-EXCLUDES-AMDT-1",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/517159/0?mediaTypeId=79cb1eab-d42c-ee11-9965-000d3a6ad588&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides background to the various provisions in NZS 1170.5:2004, suggests approaches that may satisfy the intent of the Standard and, if appropriate, describes differences between this and previous editions of the Standard.  References are provided for further reading and these are given at the end of each section of the Commentary.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 1170.5 Supp 1:2004 (Excludes Amdt 1)",
+    "status": "Current",
+    "tags": [
+      "Structural Engineering",
+      "Structural Design",
+      "Geotechnical",
+      "Seismic"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 2295:2006",
+    "originalDescription": "Pliable, permeable building underlays",
+    "foundTitle": "NZS 2295:2006 - excluding Amendment 1\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-22952006-EXCLUDING-AMENDMENT-1",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/473623/0?mediaTypeId=3ffaeef6-6279-eb11-a812-000d3a6aefc3&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies the material property requirements and test methods for pliable and permeable building underlay material to be used for roofs and walls.  This Standard does not include rigid materials used in place of pliable wall or roof underlay, pliable membranes used as insulation, vapour barriers or foil laminates.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 2295:2006 - excluding Amendment 1",
+    "status": "Current",
+    "tags": [
+      "Civil & Infrastructure"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 3101.1&2:2006",
+    "originalDescription": "Concrete structures standard – Code of practice for the design of concrete structures",
+    "foundTitle": "NZS 3101.1&2:2006 (Inc A1, A2 A3)\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-3101-1-AND-22006-INC-A1-A2-A3",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/444565/0?mediaTypeId=38840734-686e-4bdd-9b41-67c72f9b6f33&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out minimum requirements for the design of reinforced and pre-stressed concrete structures. Part Two, Commentary on The Design of Concrete Structures, explains the provisions of Part One, summarises technical background and suggests approaches which satisfy the intent of the Standard. Amendment 3 to NZS 3101.1&2:2006 involves significant revision and the introduction of new material. It has been primarily developed to address recommendations from the Canterbury Earthquakes Royal Commission. In addition, errors in the original published standard and commentary have been corrected and included in this amendment.\n\nNZS 3101 Part 1 is used by structural engineers to design concrete structures.  When read along with Verification Method B1/VM1, it provides a means of complying with the performance requirements of New Zealand Building Code clause B1 Structure.  It can also be used along with Acceptable Solution B2/AS1 to demonstrate the compliance of concrete building elements with clause B2 Durability.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3101.1&2:2006 (Inc A1, A2 A3)",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete",
+      "Geotechnical",
+      "Seismic"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 3106:1986",
+    "originalDescription": "Code of practice for concrete structures for the storage of liquids",
+    "foundTitle": "NZS 3106:1986\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-31062009",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/444757/0?mediaTypeId=843380a1-2331-42aa-99c2-b21f7806ea8a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out requirements for design, materials and construction of concrete structures for the storage of liquids. Covers construction in reinforced and prestressed concrete and in cement mortar.",
+    "supersededInfo": {
+      "title": "Design of concrete structures for the storage of liquids",
+      "link": "https://www.standards.govt.nz/shop/NZS-31062009",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/444757/0?mediaTypeId=843380a1-2331-42aa-99c2-b21f7806ea8a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 3106:2009",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 3109:1997",
+    "originalDescription": "Specification for concrete construction",
+    "foundTitle": "NZS 3109:1997\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-31091997",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/444820/0?mediaTypeId=ec6bb7de-e221-4830-ad86-471cbbbdbc19&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This standard sets out recognised practice for concrete work in New Zealand construction.  Its content includes reinforcement installation, formwork, embedded items, and the placing, finishing and curing of the concrete.  It provides minimum requirements for the construction of reinforced concrete, unreinforced concrete, prestressed concrete or a combination, in elements of any building or civil engineering structure.\n\nConcrete placers, reinforcing steel fixers, and builders, designers and engineers who work with concrete structures will find this useful.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3109:1997",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete",
+      "Steel"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Concrete"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3112.2:1986",
+    "originalDescription": "Methods of test for concrete – Tests relating to the determination of strength of concrete",
+    "foundTitle": "NZS 3112.2:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-3112-21986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/444859/0?mediaTypeId=c7f1192d-c76d-47c3-8b03-00d3a1c82473&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out methods of moulding, curing and testing concrete specimens for compressive, flexural and splitting tensile strength, testing of drilled concrete cores and the statistical analysis of strength results.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3112.2:1986",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Concrete"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3114:1987",
+    "originalDescription": "Specification for concrete surface finishes",
+    "foundTitle": "NZS 3114:1987\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-31141987",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/444937/0?mediaTypeId=69c1078f-8257-492f-960b-6f8c5e3cff75&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Categorizes by means of description and illustration various classes of surface finish of concrete obtained off-the-form, by exposed aggregate and on floors, exterior pavements and inverts.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3114:1987",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Concrete"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3116:2002",
+    "originalDescription": "Concrete segmental and flagstone paving",
+    "foundTitle": "NZS 3116:2002\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-31162002",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/459877/0?mediaTypeId=732d18a0-a1ab-4047-8d94-a5490417ee06&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out provisions for the non-specific engineering design and construction of pavements using segmental and flagstone pavers. It also provides New Zealand variations to paver manufacture and tests in relation to AS/NZS 4455 and AS/NZS 4456.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3116:2002",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Concrete Structures",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Concrete"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3404 Parts 1 and 2:1997",
+    "originalDescription": "Steel structures standard",
+    "foundTitle": "NZS 3404 Parts 1 and 2:1997\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-3404-PARTS-1-AND-21997",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/461320/0?mediaTypeId=a605dd96-c5a7-48e6-a6ac-2f2008bdbaab&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "NZS 3404 Part 1 is used by structural engineers to design steel structures. It sets out minimum requirements for the design, fabrication, erection and modification of steelwork in structures in accordance with the limit state design method or in accordance with the alternative design method. When read along with Verification Method B1/VM1, it provides a means of complying with the performance requirements of New Zealand Building Code clause B1 Structure.  \n\nPart 2 is a commentary which provides background to the content of Part 1, and explains how certain requirements originated, how they change previous practice, and how certain clauses apply.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3404 Parts 1 and 2:1997",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Steel Structures",
+      "Steel"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Steel"
+    ]
+  },
+  {
+    "originalNumber": "SNZ TS 3404:2018",
+    "originalDescription": "Durability requirements for steel structures and components",
+    "foundTitle": "SNZ TS 3404:2018\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/SNZ-TS-34042018",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/461368/0?mediaTypeId=3ca16c49-cf36-4d91-90e0-6ff870b43270&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This technical specification covers the corrosion protection of structural steelwork in the New Zealand environment.  Engineers, architects, contractors, specifiers of corrosion protection systems, the surface coating industry, and the owners of steel assets will find it useful.  It provides a means of complying with the performance requirements of New Zealand Building Code clause B2 Durability for steel building elements. \n\nThis technical specification provides an advanced framework for specifying the durability requirements for steel structures and components in atmospheric and in non-atmospheric environments, and will enable durability requirements to be met without over-specification or under-specification of coating systems. The technical specification updates the information contained in section 5 of NZS 3404.1:2009 and is republished as a stand-alone technical specification.  It is a simplification of the design procedure for durability determination given in Heavy Engineering and Research Association Report R4-133:2011 New Zealand Steelwork Corrosion and Coatings Guide, and is intended to be used to ensure that structural steelwork is sufficiently durable to meet the requirements of the NZ Building Code Clause B2, the New Zealand Transport Agency (NZTA) Bridge manual, the NZTA Protective coatings for steel bridges, as well as remain compatible with NZS 3404:1997.  The technical specification should be used together with AS/NZS 2312.1:2014 and AS/NZS 2312.2:2014. As the fabrication and erection provisions of NZS 3404 are in the process of being superseded by AS/NZS 5131:2016 and AS/NZS 5100.6:2017, the technical specification is also written to be compatible with those documents.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "SNZ TS 3404:2018",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Steel Structures",
+      "Steel"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Steel"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3501:1976",
+    "originalDescription": "Specification for copper tubes for water, gas, and sanitation",
+    "foundTitle": "NZS 3501:1976\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-35011976",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/461554/0?mediaTypeId=43a4dda2-45b5-4814-bb57-5d114069b6c6&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies chemical composition, mechanical properties and dimensions for tubes of 10 to 300 mm nominal bore. Dimensionally compatible with superseded Imperial range.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3501:1976",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Plumbing & Drainage",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Structural Steel"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3602:2003",
+    "originalDescription": "Timber and wood-based products for use in building",
+    "foundTitle": "NZS 3602:2003\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36022003",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/461884/0?mediaTypeId=81e01175-a266-4e06-8704-3526dd2a0a37&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This Standard gives the requirements for timber and wood-based products for particular uses in building so that they can be expected to give acceptable performance during the life of the building.  To that end this Standard covers the materials themselves and aspects of design and construction that are relevant to their performance in use.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3602:2003",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3604:2011",
+    "originalDescription": "Code of practice for light timber frame buildings not requiring specific design",
+    "foundTitle": "NZS 3604:2011\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36042011",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/461950/0?mediaTypeId=4af995f7-f243-48a1-aec8-6016b05da360&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "NZS 3604 is New Zealand’s most sought-after standard.  It provides methods and details that are used to design many NZ timber-framed houses and small buildings, including many residential decks.  Builders, architects, engineers, designers and students will find it useful.  NZS 3604 can be used for timber-framed buildings with one, two or certain configurations of three storeys.  It provides a way of complying with the New Zealand Building Code requirements for the structure of those buildings, including their foundations, framing layout, member sizes, bracing systems, fixings and connectors when read along with the Acceptable Solution B1/AS1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3604:2011",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber-framed Buildings",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3605:2001",
+    "originalDescription": "Timber piles and poles for use in building",
+    "foundTitle": "NZS 3605:2001\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/nzs-36052001",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/558956/0?mediaTypeId=a20ebf35-b3ff-4c77-b7a2-cb3be24c48e0&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets performance criteria and provides a means of compliance for timber house piles references in NZS 3604 and for naturally round timber piles and poles to meet design data assigned in NZS 3603.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3605:2001",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3617:1979",
+    "originalDescription": "Specification for profiles of weatherboards, fascia boards, and flooring",
+    "foundTitle": "NZS 3617:1979\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36171979",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/462028/0?mediaTypeId=ebdbc5ca-98f4-43dd-bfda-69b0f9e06c3b&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Establishes the dressed dimensions and the moisture content at the time of machining for weatherboards, fascia boards, and strip flooring.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3617:1979",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3622:2004",
+    "originalDescription": "Verification of timber properties",
+    "foundTitle": "NZS 3622:2004\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36222004",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/462061/0?mediaTypeId=312e8e13-9e30-44fb-a0de-1e30625acc62&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This Standard describes procedures for the initial evaluation and daily quality control requirements necessary to ensure that timber has the structural properties claimed for it.  The procedures apply both to timber that is visually and machine stress graded.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3622:2004",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3631:1988",
+    "originalDescription": "New Zealand timber grading rules",
+    "foundTitle": "NZS 3631:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36311988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/462148/0?mediaTypeId=a9201351-86da-4618-bd68-ecd5d13f5619&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Establishes visual grading rules for the selection of timber into quality classes. Four types of grades have been specified. Provision has also been made for new crop radiata pine.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3631:1988",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3640:2003",
+    "originalDescription": "Specification of the minimum requirements of the NZ Timber Preservation Council Inc.",
+    "foundTitle": "NZS 3640:2003\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-36402003",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/462160/0?mediaTypeId=d2a7cc4a-db73-41b6-b57a-88afec7def23&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out requirements for the preservative treatment and identification of timber to provide protection from decay and insect attack including marine borers in all likely exposure conditions throughout New Zealand, based on six hazard classes that are described in this Standard.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3640:2003",
+    "status": "Current",
+    "tags": [
+      "Building Services",
+      "Timber & Residential",
+      "Timber"
+    ],
+    "replaces": [],
+    "categories": [
+      "Timber Construction"
+    ]
+  },
+  {
+    "originalNumber": "NZS 3902:2004",
+    "originalDescription": "Agreement for small building contracts (including supply of land)",
+    "foundTitle": "NZS 3902:2004\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-39022004",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/462826/0?mediaTypeId=f8084a79-83cb-4550-aef5-15eaf1ac6548&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "NZS 3902 provides a standard form of building contract suitable for owners who are making their own building arrangements. This standard will help comply with the Building Amendment Act 2013 and make the building contract process smoother and easier for homeowner and builder.\n\nIf you’re a homeowner doing building or renovating that will cost $30,000 or more (including GST), you must have a written contract with your building contractor. Even if the work costs less than $30,000, it’s a good idea to always have a written contract so that you are legally protected and know what you’re paying for. This is a 'plain English' standard building contract, for use between property owners and the contractors who will build their house or undertake alterations or other building work of a simple nature. It sets out the rights and responsibilities for all parties, and is intended to be fair and easily understood.\n\nNZS 3902 contains an electronic Microsoft Word form that can be filled in by all parties to the contract. The form cannot be used on its own and must be used with the full standard. \n\nGuidance on NZS 3902 and the electronic form.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 3902:2004",
+    "status": "Current",
+    "tags": [
+      "Building Services"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4121:2001",
+    "originalDescription": "Design for access and mobility – Buildings and associated facilities",
+    "foundTitle": "NZS 4121:2001\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-41212001",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446293/0?mediaTypeId=d7c16cf7-a6f1-4466-beee-3553f9c44627&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This standard provides well-integrated and workable solutions for designing buildings and facilities that can be accessed and used by people with disabilities.  It provides a way of complying with the New Zealand Building Code performance criteria for providing access and facilities for persons with disabilities.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4121:2001",
+    "status": "Current",
+    "tags": [
+      "General"
+    ],
+    "replaces": [],
+    "categories": [
+      "Building Standards"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4206:1992",
+    "originalDescription": "Concrete interlocking roofing tiles",
+    "foundTitle": "NZS 4206:1992\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42061992",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446866/0?mediaTypeId=72f45e62-dee6-4627-ba40-c6d711f723f9&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies requirements for concrete interlocking roofing tiles of a general type and for their associated accessory tiles. Establishes minimum standards for fit and finish, for quality of materials used in manufacture and for dimensional requirements related to side lap and location of fixings, without restricting overall design or size of tiles and accessories. Also specifies requirements for laying and fixing to specified timber battens.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4206:1992",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Timber",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4210:2001",
+    "originalDescription": "Code of practice for masonry construction – Materials and workmanship",
+    "foundTitle": "NZS 4210:2001\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42102001",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446902/0?mediaTypeId=617010ba-37bf-4a7c-b30f-07534ec9efdc&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the requirements for the materials and workmanship of clay, concrete and natural stone masonry to be used in conjunction with NZS 3604, NZS 4229 and NZS 4230 for the construction of masonry buildings and masonry veneers.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4210:2001",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "SNZ TS 4211:2022",
+    "originalDescription": "Classification for the performance of windows",
+    "foundTitle": "SNZ TS 4211:2022\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/SNZ-TS-42112022",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/503810/0?mediaTypeId=9a995a6a-192f-ed11-9db1-000d3a6ad6e6&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Objective of this technical specification  is to provide a methodology for classifying windows and exterior doors in accordance with their suitability for various design and building situations.\nIt is intended for use by window suppliers, manufacturers, and designers. It establishes a basis for decisions about the likely performance of windows relative to their exposure, and for demonstrating compliance with the minimum requirements of the New Zealand Building Code.\n\nSNZ TS 4211 is for use with discrete window and door units to be installed within the walls of buildings. Changes to the title, layout, and emphasis of the document reflect its role in providing a classification system for windows used in New Zealand buildings. This classification system ensures that appropriate windows can be manufactured and selected for the situations in which they will be used.\n\nThis specification excludes the installation details at the window perimeter and excludes building facades and curtain walls. In addition, this specification does not cover durability, thermal, acoustic, or fire-rating performance requirements for windows.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "SNZ TS 4211:2022",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Fire Safety",
+      "Energy",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4214:2006",
+    "originalDescription": "Methods of determining the total thermal resistance of parts of buildings",
+    "foundTitle": "NZS 4214:2006\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42142006",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446950/0?mediaTypeId=6a6f76fd-710a-4d4f-a77a-a3b4fa2b79c9&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides methods of determining the thermal resistance of building components and elements consisting of thermally homogeneous layers, in steady-state environmental conditions.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4214:2006",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4217:1980",
+    "originalDescription": "Pressed metal tile roofs",
+    "foundTitle": "NZS 4217:1980\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42171980",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446959/0?mediaTypeId=e7b9034e-fb02-49de-b3bf-376fb7846336&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Defines the quality of the material used in the manufacture of pressed metal roofing tiles and accessories. Applies only to the roofing and re-roofing of buildings less than 10 m high and not subject to specific design. Describes a suitable means of fixing metal roofing tiles on new or existing structures.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4217:1980",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4218:2004",
+    "originalDescription": "Minimum thermal insulation requirements for residential buildings",
+    "foundTitle": "NZS 4218:2004\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-42182009",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446974/0?mediaTypeId=1d6ec735-f9fb-40cb-aa8d-f2d06603bf53&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides details and guidance to meet adequate energy efficiency performance requirements for the building envelope of housing and small buildings.  Incorporates glazing into the schedule and calculation methods of compliance with the required performance and focuses on excessive heat-loss through the area of glazing.  It also brings the window R-values into line with Window Efficiency Rating Scheme (WERS) and adds an Appendix on glazing performance. It focuses on areas of glazing above 30% of the total wall area as these significantly affect thermal efficiency of the envelope.",
+    "supersededInfo": {
+      "title": "Thermal insulation - Housing and small buildings",
+      "link": "https://www.standards.govt.nz/shop/NZS-42182009",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/446974/0?mediaTypeId=1d6ec735-f9fb-40cb-aa8d-f2d06603bf53&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4218:2009",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Insulation & Energy",
+      "Thermal Insulation",
+      "Energy",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4219:2009",
+    "originalDescription": "Specification for seismic resistance of engineering systems in buildings",
+    "foundTitle": "NZS 4219:2009\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42192009",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/446989/0?mediaTypeId=6ea4c266-7f8a-46fb-9293-cc3eadac2b04&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the criteria for the seismic performance of engineering systems related to a building's function. This standard will be particularly useful for sub-trade work in multi-storey apartment and commercial buildings.  It covers the design, construction and installation of seismic restraints for engineering systems such as air-handling units, tanks, cabinets, pipework and ductwork.  To demonstrate compliance with the New Zealand Building Code’s earthquake resistance requirements, it must be read along with Verification Method B1/VM1.   Buildings with importance level 5, large mass items, structures external to the building, lifts, building contents, and fire sprinkler systems are excluded from this Standard.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4219:2009",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Fire Safety",
+      "Geotechnical",
+      "Seismic"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4223.1:2008",
+    "originalDescription": "Code of practice for glazing in buildings – Code of practice for glazing in buildings",
+    "foundTitle": "NZS 4223.1:2008\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4223-12008",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447037/0?mediaTypeId=26b1f327-7bc2-4c8f-aab8-7f9343b4164a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides general guidance for designers and specifiers for glass selection and glazing in buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4223.1:2008",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Glazing",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4223.2:2016",
+    "originalDescription": "Glazing in buildings – Part 2: Insulating glass units",
+    "foundTitle": "NZS 4223.2:2016\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4223-22016",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447043/0?mediaTypeId=5fbfda3b-3218-4e6c-8b09-77479c3d5227&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides a means of compliance with the relevant performance requirements of Building Code Clauses B1, B2, F2, F4 and H1 in order to minimise the potential for strength and durability failures of insulating glass units in buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4223.2:2016",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4223.3:2016",
+    "originalDescription": "Glazing in buildings – Part 3: Human impact safety requirements",
+    "foundTitle": "NZS 4223.3:2016 excluding Amendment 1\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4223-32016-EXCLUDING-AMENDMENT-1",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/473632/0?mediaTypeId=1eceffd4-6c79-eb11-a812-000d3a6aefc3&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides a means of compliance with the relevant performance requirements of Building Code Clauses B1, F2 and F4 in order to minimise the potential for injury to building users from glazing in buildings. Correction Amendment 1:2016 is incorporated into this standard and is not available separately.\n\nDesigners, window manufacturers and glaziers will make good use of this standard.  When read along with B1/AS1, this standard covers where and what type of safety glass and other measures are needed in situations where people could impact or fall through glass in buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4223.3:2016 excluding Amendment 1",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4223.4:2008",
+    "originalDescription": "Code of practice for glazing in buildings – Dead, wind and snow loading",
+    "foundTitle": "NZS 4223.4:2008\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4223-42008",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447064/0?mediaTypeId=3da56ced-c101-4517-a38c-47aaae68616c&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides a methodology for determining the minimum glass thickness for vertical and sloped overhead glazing to resist limit state actions.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4223.4:2008",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4229:2013",
+    "originalDescription": "Concrete masonry buildings not requiring specific engineering design",
+    "foundTitle": "NZS 4229:2013\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42292013",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463213/0?mediaTypeId=1417524a-746b-41ea-b2ad-98745e3fb10f&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "NZS 4229 provides methods for the design and construction of reinforced concrete masonry houses and small buildings with one, two or certain configurations of three storeys.  Designers, architects, and block layers will find it useful.  It provides a way of complying with the New Zealand Building Code requirements for the structure of these buildings including their foundations, wall layout, lintels, bracing systems, and reinforcement bars when read along with Acceptable Solution B1/AS1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4229:2013",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4230:2004",
+    "originalDescription": "Design of reinforced concrete masonry structures",
+    "foundTitle": "NZS 4230:2004\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42302004",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463240/0?mediaTypeId=b172e0d3-48e9-4153-a346-6bfec047f4ae&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides up to date information for the design of reinforced concrete masonry structures.  This revision recognizes the predominant use of reinforced concrete masonry for structural applications in NZ, and incorporates research findings specifically pertaining to the performance of reinforced and prestressed concrete masonry.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4230:2004",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Concrete"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4232.2:1988",
+    "originalDescription": "Performance criteria for fire resisting enclosures – Part 2: Fire resisting glazing systems",
+    "foundTitle": "NZS 4232.2:1988 (Excludes Amdt 1)\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4232-21988-EXCLUDES-AMDT-1",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/473626/0?mediaTypeId=cc3c0791-6579-eb11-a812-000d3a6aefc3&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies the range of performance requirements which are to be provided when the term fire window is used. Provides a means of compliance with the requirements for the design, manufacture and installation for all fire windows.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4232.2:1988 (Excludes Amdt 1)",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Fire Safety",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "SNZ HB 4236:2002",
+    "originalDescription": "Masonry veneer wall cladding",
+    "foundTitle": "SNZ HB 4236:2002\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/SNZ-HB-42362002",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463321/0?mediaTypeId=750d6952-0e99-4d8f-a60a-225dc8a70bfc&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This Standards New Zealand Handbook sets out guidelines and requirements for masonry veneer exterior cladding in New Zealand.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "SNZ HB 4236:2002",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4243.1:2007",
+    "originalDescription": "Energy efficiency – Large buildings – Building thermal envelope",
+    "foundTitle": "NZS 4243.1:2007\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4243-12007",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463369/0?mediaTypeId=42f6afd6-f7e3-4181-a304-9fd402c37287&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies performance requirements for large buildings to achieve an adequate level of energy efficiency in respect of their building envelope. The requirements for lighting have been updated and placed in a separate Standard (NZS 4243 Part 2).",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4243.1:2007",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4243.2:2007",
+    "originalDescription": "Energy efficiency – Large buildings – Part 2: Lighting",
+    "foundTitle": "NZS 4243.2:2007\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4243-22007",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463372/0?mediaTypeId=22ca3f48-0c8f-449e-80ea-d394f3e47832&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies performance requirements for large buildings to achieve an adequate level of energy efficiency in respect of lighting.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4243.2:2007",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4246:2016",
+    "originalDescription": "Energy efficiency – Installing bulk thermal insulation in residential buildings",
+    "foundTitle": "NZS 4246:2016\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42462016",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463399/0?mediaTypeId=757919fd-f28d-449b-bf73-0334e36d1dae&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides guidance for the correct installation of insulation products by installers and consumers to achieve the intended thermal performance in buildings without compromising the durability and safety of insulation or building elements and the health and safety of installers and building occupants. The guidance is based on residential-type construction, but the methods may be appropriate to other construction types. The standard covers installing insulation in new buildings during construction as well as retrofitting of insulation in existing buildings. This edition of the standard has been extended to provide guidance on installing insulation in steel-framed constructions, for concrete slabs on ground and to update content for installing insulation around luminaires, where there have been significant technology advances since the standard was last revised in 2006. Additional diagrams, photos and figures have been included for illustrative purposes and Appendix B has been rewritten to align with the Health and Safety at Work Act 2015.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4246:2016",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Concrete",
+      "Steel",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Thermal and Energy"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4251.1:2007",
+    "originalDescription": "Solid plastering – Cement plasters for walls, ceilings and soffits",
+    "foundTitle": "NZS 4251.1:2007\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4251-12007",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/463426/0?mediaTypeId=43b4d332-b450-4ea9-b009-e6944277b2c5&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the requirements for solid plaster, and stucco over a drained and vented cavity with a rigid or non-rigid backing in buildings, to achieve structurally sound, hard, durable and water resistant surfaces.  This revision has introduced the requirement of cavity behind the plaster and applies to exterior and interior walls where impact loads are limited to soft body impacts associated with domestic use.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4251.1:2007",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Glazing and Masonry"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4297:2024",
+    "originalDescription": "Engineering design of earth buildings",
+    "foundTitle": "NZS 4297:2024\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42972024",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/524449/0?mediaTypeId=43519bcb-55b7-ef11-b8e8-000d3acaa2ce&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Is intended mainly for use by professional structural engineers. It provides designers and engineers with a cost-effective means of assessing the design of structures that incorporate unfired earthen materials.\n\nNZS 4297:2024 should be read alongside NZS 4298:2024 and NZS 4299:2024 for practical guidance on materials, testing of those materials, and how to use those materials when constructing earth buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4297:2024",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Fire Safety",
+      "Geotechnical"
+    ],
+    "replaces": [],
+    "categories": [
+      "Seismic and Earth"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4298:2024",
+    "originalDescription": "Materials and construction for earth buildings",
+    "foundTitle": "NZS 4298:2024\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42982024",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/524450/0?mediaTypeId=747b7aa2-29b8-ef11-b8e8-7c1e522a937d&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets minimum standards for earth materials. When applied by designers, building consent officers, and builders, NZS 4298:2024 provides these users with a cost-effective means of compliance, and practical guidance on earth materials, their testing, and how to use them when constructing earth buildings. \n\nNZS 4298:2024 should be read and applied alongside NZS 4297:2024 and 4299:2024, which provide design details and other criteria for building successful earth buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4298:2024",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Geotechnical"
+    ],
+    "replaces": [],
+    "categories": [
+      "Seismic and Earth"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4299:2024",
+    "originalDescription": "Earth buildings not requiring specific design",
+    "foundTitle": "NZS 4299:2024\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-42992024",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/524451/0?mediaTypeId=db2dd568-ccfa-ee11-9f89-000d3ad11c4b&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets a minimum standard for the design and construction of earth buildings. When applied by designers, building consent authorities, and builders, NZS 4299:2024 provides these users with cost-effective and practical specifications and guidance information for designing and constructing earth buildings, without the need for specific engineering design.\n \nNZS 4299:2024 provides prescribed methods for the design and construction of reinforced earth walled buildings including domestic dwellings and other residential buildings, and some commercial buildings",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4299:2024",
+    "status": "Current",
+    "tags": [
+      "Insulation & Energy",
+      "Geotechnical"
+    ],
+    "replaces": [],
+    "categories": [
+      "Seismic and Earth"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4303:1990",
+    "originalDescription": "Ventilation for acceptable indoor air quality",
+    "foundTitle": "NZS 4303:1990\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-43031990",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464152/0?mediaTypeId=81d7538b-e5c3-4a73-b62a-a4ee94712445&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies minimum ventilation rates and indoor air quality that will be acceptable to human occupants and intended to avoid adverse health effects. Applies to all indoor or enclosed spaces that people may occupy, except where other applicable Standards and requirements dictate larger amounts of ventilation than this Standard. Release of moisture in residential kitchens, bathrooms, locker rooms, and swimming pools is included in the scope of this Standard.  Based on but not equivalent to ASHRAE 62:1989.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4303:1990",
+    "status": "Current",
+    "tags": [
+      "Sanitation & Quality"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4304:2002",
+    "originalDescription": "Management of Healthcare Waste",
+    "foundTitle": "NZS 4304:2002\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-43042002",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464158/0?mediaTypeId=60de74a2-73c1-4a7f-bc47-1f570e73c487&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides guidelines for the disposal of human and animal healthcare waste, including generators, waste transporters and waste disposal facilities.  It outlines procedures for the classification, segregation, packaging/containment, labelling, storage, transport and disposal of healthcare waste.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4304:2002",
+    "status": "Current",
+    "tags": [
+      "Sanitation & Quality"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4305:1996",
+    "originalDescription": "Energy efficiency – Domestic type hot water systems",
+    "foundTitle": "NZS 4305:1996\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-43051996",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464161/0?mediaTypeId=e891d743-c0b9-4a09-b026-21409466bb03&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out minimum energy efficiency requirements in terms of heat losses from domestic type hot water systems.  It applies to all domestic type hot water systems irrespective of the energy source, and covers systems that may be found in residential, industrial and commercial buildings, but excludes systems used exclusively for space heating, cooling or for processes.  The requirements are based on a practical and economic analysis of insulation costs and energy savings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4305:1996",
+    "status": "Current",
+    "tags": [
+      "Sanitation & Quality",
+      "Plumbing",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4332:1997",
+    "originalDescription": "Non-domestic passenger and goods lifts",
+    "foundTitle": "NZS 4332:1997\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-43321997",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464227/0?mediaTypeId=cc284975-d1f4-482f-8afc-124a59d7c681&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies requirements for the design, construction, operation and testing of passenger carrying lifts including goods lifts with car controls and not including lifts in single unit dwellings.  It applies to new building work being either the installation of a new lift or new work associated with an existing installation.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4332:1997",
+    "status": "Current",
+    "tags": [
+      "Sanitation & Quality"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4334:2012",
+    "originalDescription": "Platform lifts and low-speed lifts",
+    "foundTitle": "NZS 4334:2012\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-43342012",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464239/0?mediaTypeId=690e88ef-8754-42f3-ac11-7abdc253163e&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides the specifications to build and maintain New Zealand Building Code compliant platform and low-speed lifts for both domestic and some public settings that are safe, fit for purpose and useable by all people. This Standard applies to domestic buildings and to public buildings up to a few storeys high only.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4334:2012",
+    "status": "Current",
+    "tags": [
+      "Sanitation & Quality"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.2:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.2 Determination of the liquid limit",
+    "foundTitle": "NZS 4402.2.2:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-21986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464716/0?mediaTypeId=96796de1-c8e0-48e4-8ab8-6a171f82c5b1&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the determination of the liquid limit of a soil which has not been dried below natural water content. The method may also be used on previously dried soils. To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.2:1986",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.4:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.4 Determination of the plasticity index",
+    "foundTitle": "NZS 4402.2.4:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-41986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464722/0?mediaTypeId=0ecdf28c-3e93-4232-9672-37f213e001e0&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the determination of the plasticity index of a soil.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.4:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.8.1:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.8.1 Standard method by wet sieving",
+    "foundTitle": "NZS 4402.2.8.1:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-8-11986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464737/0?mediaTypeId=efceb9ce-4600-4787-b018-1a167a6ba5cd&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the quantitative determination of the particle size distribution in a soil down to the fine s and size by wet sieving.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.8.1:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.8.2:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.8.2 Subsidiary method by dry sieving",
+    "foundTitle": "NZS 4402.2.8.2:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-8-21986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464740/0?mediaTypeId=4ae1971a-0c9d-4cec-9803-ffa9b8ce1314&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the quantitative determination of the particle-size distribution in a soil down to the fine s and size by dry sieving. The method should not be used unless it has been shown that for the type of material under test it gives the same results as the method of analysis by wet sieving. In case of doubt, Test 2.8.1 should be used.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.8.2:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.8.3:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.8.3 Standard method for fine soils (pipette method)",
+    "foundTitle": "NZS 4402.2.8.3:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-8-31986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464743/0?mediaTypeId=1f9cb369-d418-43c3-b0d0-7750510873a6&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the quantitative determination of the particle-size distribution in a soil from the coarse sand size down. This test is not normally carried out if less than 10 percent of the material passes the 63 micron test sieve, as measured in Test 2.8.1.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.8.3:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.2.8.4:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil classification tests – Test 2.8.4 Subsidiary method for fine soils (hydrometer method)",
+    "foundTitle": "NZS 4402.2.8.4:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-2-8-41986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464746/0?mediaTypeId=d93d00ec-cf25-4ca4-a9fb-b93984359e02&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the quantitative determination of the particle-size distribution in a soil from the coarse sand size down. This test is not normally carried out if less than 10 percent of the material passes the 63 micron test sieve as measured in Test 2.8.1.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.2.8.4:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.4.1.1:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil compaction tests – Determination of the dry density/water content relationship – Test 4.1.1 New Zealand standard compaction test",
+    "foundTitle": "NZS 4402.4.1.1:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-4-1-11986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464767/0?mediaTypeId=b02b8452-c5c6-4a15-851c-669c45437350&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the determination of the dry density when the soil passing a 19.0 mm test sieve is compacted in a specified manner, over a range of water contents, including that which gives the maximum dry density.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.4.1.1:1986",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.4.2.1:1988",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil compaction tests – Determination of the minimum and maximum dry densities and relative density of a cohesionless soil – Test 4.2.1 Minimum dry density",
+    "foundTitle": "NZS 4402.4.2.1:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-4-2-11988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464776/0?mediaTypeId=3962cffc-06d2-4aff-b33f-e80cb99f55b2&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides a standard technique for the laboratory determination of the minimum dry density of a cohesionless soil.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.4.2.1:1988",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.4.2.2:1988",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil compaction tests – Determination of the minimum and maximum dry densities and relative density of a cohesionless soil – Test 4.2.2 Maximum dry density",
+    "foundTitle": "NZS 4402.4.2.2:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-4-2-21988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464779/0?mediaTypeId=107a4b77-f774-49c9-9a83-d37730cc6dfa&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides a standard technique for the laboratory determination of the maximum dry density of a cohesionless soil by vibratory compaction of a fully saturated sample.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.4.2.2:1988",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.4.2.3:1988",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil compaction tests – Determination of the minimum and maximum dry densities and relative density of a cohesionless soil – Test 4.2.3 Relative density",
+    "foundTitle": "NZS 4402.4.2.3:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-4-2-31988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464782/0?mediaTypeId=45202a56-fd31-4a85-b73e-eaa4faf02a10&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Determines the relative density of a soil with respect to the loosest and densest states at which it can be placed by the laboratory techniques specified.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.4.2.3:1988",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4402.5.1.1:1986",
+    "originalDescription": "Methods of testing soils for civil engineering purposes – Soil density tests – Determination of the density of soil – Test 5.1.1 Sand replacement method for the determination of in situ density",
+    "foundTitle": "NZS 4402.5.1.1:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4402-5-1-11986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/464785/0?mediaTypeId=bef6d0a5-9c54-493c-9d02-dc4494414601&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers the determination in situ of the density of undisturbed or compacted soils.  To be read in conjunction with Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4402.5.1.1:1986",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": [
+      "Geotechnical Engineering"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4431:1989",
+    "originalDescription": "Code of practice for earth fill for residential development",
+    "foundTitle": "NZS 4431:2022\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-44312022",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/501098/0?mediaTypeId=843d09ed-afdb-ec11-bb3c-00224893f31d&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "NZS 4431 provides the process for the geotechnical investigation, design, construction, quality assurance testing, and certification of engineered fill as foundation support for lightweight residential and commercial buildings and associated infrastructure. Evidence of adherence to this standard, alongside appropriate professional review and certification, can be used to demonstrate compliance with the relevant sections of the New Zealand Building Code for these projects.        \nThis revision reflects changes in geotechnical investigation, design and construction practice, test methods. And environmental, consenting, and health and safety obligations since the original publication in 1989.  The layout of this revision reflects the iterative processes used by the geotechnical designer, certifier, and contractor to enable engineered fill construction to deliver safe and stable foundation support for lightweight residential and commercial buildings and associated infrastructure.  \nNZS4431 is not a specification. An earthworks specification needs to be developed for each development in accordance with the requirements of this standard. The earthworks specification will provide the site and contract-specific requirements in addition to those presented in this standard. To comply with this standard, certified engineered fill construction shall meet the requirements of the project - and site-specific earthworks specification, as well as the design documentation, engineering drawings, quality assurance and testing requirements, and building and consent conditions.    \nThe New Zealand earthworks specification (NZGS, 2022) is an example of a generic specification developed to be compatible with this standard. It is appropriate for use on most residential (and many other) development projects with common soil and rock types found in New Zealand and comes in both a long and a short form to suit larger and smaller projects respectively.  Because of the variability of the natural materials used in earthworks, specialist geotechnical input is needed to ensure that the specified soil and rock materials are suitable for the intended use and that the proposed testing regime is appropriate for the selected materials.                     \nThe primary intended users of this standard are the geotechnical designer and the certifier. In the context of this standard, the geotechnical designer is responsible for the design of the engineered fill and the preparation of the earthwork’s specification. The certifier is responsible for confirming that the engineered fill has been constructed in accordance with the design, consent conditions, and earthworks specification. In many smaller projects, the geotechnical designer will also take the role of the certifier.  The contractor responsible for placing the engineered fill should have a good understanding of this standard. It is expected that they will use this standard to direct any filling operations in conjunction with the earthwork’s specification created by the geotechnical designer in accordance with this standard.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4431:2022",
+    "status": "Current",
+    "tags": [
+      "Geotechnical",
+      "Soil"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4442:1988",
+    "originalDescription": "Welded steel pipes and fittings for water, sewage and medium pressure gas",
+    "foundTitle": "NZS 4442:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-44421988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447283/0?mediaTypeId=e051214b-a67f-4fb2-8321-46eec0b33d68&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Applies to welded steel pipes and fittings with butt welded seams in sizes of 100 mm to 1000 mm nominal pipe sizes intended primarily for the conveyance of water, sewage, and medium pressure gas. Specifies standard outside diameters and requirements for commonly used fittings. Also specifies external protective coatings and internal linings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4442:1988",
+    "status": "Current",
+    "tags": [
+      "Steel",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4510:2008",
+    "originalDescription": "Fire hydrant systems for buildings",
+    "foundTitle": "NZS 4510:2008\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45102022",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/499418/0?mediaTypeId=b7bf7edc-2aaa-ec11-9840-0022489314c8&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the minimum technical and performance requirements for fire hydrant systems installed in buildings.",
+    "supersededInfo": {
+      "title": "Fire hydrant systems",
+      "link": "https://www.standards.govt.nz/shop/NZS-45102022",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/499418/0?mediaTypeId=b7bf7edc-2aaa-ec11-9840-0022489314c8&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4510:2022",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4512:2010",
+    "originalDescription": "Fire detection and alarm systems in buildings",
+    "foundTitle": "NZS 4512:2010\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45122021",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/475061/0?mediaTypeId=1dedf5f7-7cac-eb11-8236-000d3a6b0a61&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Application of this Standard will help prevent loss of life and provide optimum fire protection for New Zealand buildings. The Standard provides up-to-date specifications for the design, manufacture, installation and maintenance of fire detection and alarm systems, whether operated manually or automatically, in the event of fire, enabling a fire warning from a fire alarm system in a building to operate at the earliest practicable moment to facilitate appropriate emergency measures. It covers manual and automatic fire alarm systems, but not single or interconnected smoke alarms for houses.  \n\nAlarm technicians and installers, fire engineers, and others involved in designing buildings containing alarm systems, and in installing, maintaining, inspecting and certifying those systems, use this standard.\nFire alarm systems conforming to this standard can help meet the requirements of the New Zealand Building Code for fire safety and warning systems.  They can also help with obtaining approval for evacuation schemes, issued by Fire and Emergency New Zealand.",
+    "supersededInfo": {
+      "title": "Fire detection and alarm systems in buildings",
+      "link": "https://www.standards.govt.nz/shop/NZS-45122021",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/475061/0?mediaTypeId=1dedf5f7-7cac-eb11-8236-000d3a6b0a61&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4512:2021",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety",
+      "Alarms"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4514:2009",
+    "originalDescription": "Interconnected smoke alarms for houses",
+    "foundTitle": "NZS 4514:2009\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45142021",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/475064/0?mediaTypeId=1eb14638-84ac-eb11-8236-000d3a6b0a61&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Smoke alarms save lives.  They are mandatory in residential tenancies and can be important for obtaining a building consent when building or altering a house or small apartment. This standard includes important information about the placement of smoke alarms, and their ability to be heard.  It provides information about installing, commissioning and maintaining externally powered interconnected smoke alarms, a more robust warning system than battery-powered smoke alarms.  Acceptable Solution F7/AS1 provides information on using this standard to help demonstrate Building Code compliance, along with Acceptable Solutions C/AS1 and C/AS2.",
+    "supersededInfo": {
+      "title": "Interconnected smoke alarms for houses",
+      "link": "https://www.standards.govt.nz/shop/NZS-45142021",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/475064/0?mediaTypeId=1eb14638-84ac-eb11-8236-000d3a6b0a61&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4514:2021",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Fire & Emergency",
+      "Alarms"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4515:2003",
+    "originalDescription": "Fire sprinkler systems for life safety in sleeping occupancies (up to 2000 square metres)",
+    "foundTitle": "NZS 4515:2003\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45152009",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447910/0?mediaTypeId=3044c95d-7551-4483-a35f-801af167a73e&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This Standard applies to buildings used solely as a residence - including care institutions, hostels, boarding houses, apartment buildings, motels, retirement homes, rest homes, transitional houses and hospital ward areas.  It recommends the use of residential sprinkler heads as benefits include rapid response and fire control.",
+    "supersededInfo": {
+      "title": "Fire sprinkler systems for life safety in sleeping occupancies (up to 2000 square metres)",
+      "link": "https://www.standards.govt.nz/shop/NZS-45152009",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/447910/0?mediaTypeId=3044c95d-7551-4483-a35f-801af167a73e&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4515:2009",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4517:2002",
+    "originalDescription": "Fire sprinkler systems for houses",
+    "foundTitle": "NZS 4517:2002\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45172010",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447931/0?mediaTypeId=9adebac0-d564-44ec-8230-691f231da65a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "This Standard specifies minimum requirements for the design, material and installation of fire sprinkler systems for domestic occupancies, and advises on periodic testing and maintenance of these fire sprinkler systems.  Reprinted to append Amendment 1:2003.",
+    "supersededInfo": {
+      "title": "Fire sprinkler systems for houses",
+      "link": "https://www.standards.govt.nz/shop/NZS-45172010",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/447931/0?mediaTypeId=9adebac0-d564-44ec-8230-691f231da65a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4517:2010",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4520:2010",
+    "originalDescription": "Fire-resistant doorsets",
+    "foundTitle": "NZS 4520:2010\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-45202010",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447946/0?mediaTypeId=4fa2f1ea-3a60-47a6-91f4-efe523cc5b8d&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies requirements for the testing, installation and maintenance of fire-resistant doorsets used to protect openings in walls and partitions, which are required to resist the passage of fire.  NZS 4520 also applies to transom panels over doors, where the panels are contained within the door frame and form part of the doorset.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4520:2010",
+    "status": "Current",
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": [
+      "Fire Protection"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4602:1988",
+    "originalDescription": "Low pressure copper thermal storage electric water heaters",
+    "foundTitle": "NZS 4602:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46021988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465049/0?mediaTypeId=8138ccd7-c1a7-459c-bbd7-94883cc21b88&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Applies to the design, materials, construction, thermal insulation and performance of thermostatically controlled heaters of 6.5 to 450 L capacity designed for pressures up to 120 kPa (12 mH2O), installed in a vertical position either open-vented to NZS 4603 or valve-vented to NZS 4607.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4602:1988",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Electrical",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4603:1985",
+    "originalDescription": "Installation of low pressure thermal storage electric water heaters with copper cylinders (open-vented systems)",
+    "foundTitle": "NZS 4603:1985\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46031985",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465058/0?mediaTypeId=2a52f2a8-5f69-427f-8033-9ba5d1c9d065&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Applies to the installation in the vertical position of thermal storage electric water heaters complying with NZS 4602 and designed to work on pressures not exceeding 120 kPa (12.0 m head). It is restricted to systems with open vents. Applies also to hot water reticulation systems, to dual systems, and to the use of wetbacks or similar water heaters which supply hot water to the cylinder, supplementing the heat derived from the electric element. Solar assisted systems are not covered.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4603:1985",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Electrical",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4606.1:1989",
+    "originalDescription": "Storage water heaters – General requirements",
+    "foundTitle": "NZS 4606.1:1989\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-4606-11989",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465076/0?mediaTypeId=af382ff9-c029-4d27-a0ec-a09f6a31f79f&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies general constructional and performance requirements for storage water heaters of 6.5 L to 630 L capacity other than those covered by NZS 4602. Also specifies the allowable heat loss, the provision of user-adjustable means of temperature control, and routine and type test schedules. Gas-fired water heaters are specified by reference to the AGA/ALPGA Codes. The Standard is based on Australian Standard AS 1056: Part 1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4606.1:1989",
+    "status": "Current",
+    "tags": [
+      "Fire Safety",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4607:1989",
+    "originalDescription": "Installation of thermal storage electric water heaters – Valve-vented systems",
+    "foundTitle": "NZS 4607:1989\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46071989",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465106/0?mediaTypeId=a7080fca-a346-486e-a25b-22c4cec9b748&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Applies to installation in domestic and light commercial establishments of thermal storage water heaters complying with NZS 4602 and NZS 4606 fitted with a pressure relief valve instead of an open vent. (For open vented systems see NZS 4603.)  Referenced in BIA Approved Document G12.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4607:1989",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Electrical",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4608:1992",
+    "originalDescription": "Control valves for hot water systems",
+    "foundTitle": "NZS 4608:1992\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46081992",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465109/0?mediaTypeId=e354d6a8-e8a6-438a-bc74-ec02e76056c6&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the design, construction, performance and testing requirements of valves for pressure control, expansion control, pressure relief, vacuum relief, temperature relief and non-return functions. Applies to systems with static supply pressures up to 1600 kPa (163 mH2O) and working pressures up to 500 kPa (51 mH2O) with temperatures  not normally exceeding 85 degrees C, installed to NZS 4603 and 4607.  Referenced in BIA Approved Document G12.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4608:1992",
+    "status": "Current",
+    "tags": [
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4613:1986",
+    "originalDescription": "Domestic solar water heaters",
+    "foundTitle": "NZS 4613:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46131986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465142/0?mediaTypeId=16e8ec7b-d2c8-4539-8800-8317a2a1273f&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies solar collectors and ancillary equipment for systems with or without auxiliary heating. Annual performance of complete systems is estimated approximately using a 3 - 4 day test procedure or assessed reliably using a 30 day test.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4613:1986",
+    "status": "Current",
+    "tags": [
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4614:1986",
+    "originalDescription": "Installation of domestic solar water heating systems",
+    "foundTitle": "NZS 4614:1986\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46141986",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465151/0?mediaTypeId=63ec9790-f18f-492f-a3f1-0901b307eb84&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers installation of systems of fixed orientation and inclination of up to 6 m2 collector area and 450 L storage capacity, capable of auxiliary heating and delivering potable water, but excluding space or pool heating.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4614:1986",
+    "status": "Current",
+    "tags": [
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4617:1989",
+    "originalDescription": "Tempering (3-port mixing) valves",
+    "foundTitle": "NZS 4617:1989\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-46171989",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/465169/0?mediaTypeId=9f0b1d4e-b874-44a5-8fda-f8534e92bc10&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers requirements for tempering valves for storage hot water systems particularly in domestic situations where hot water poses a hazard. These valves are intended to prevent scalding in locations such as homes, schools, motels and residential premises, where ideally all hot water outlets should be sourced from a tempering valve. Provides for valves suitable for water inlet temperatures of up to 100 degrees C.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4617:1989",
+    "status": "Current",
+    "tags": [
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 5262:2003",
+    "originalDescription": "Gas appliance safety",
+    "foundTitle": "NZS 5262:2003\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-52662014",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/466015/0?mediaTypeId=a262d85b-0c76-4aa9-821e-dc830c85ed0c&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the essential safety requirements for all gas appliances intended for installation or use in New Zealand. It is not a design code and therefore it does not address matters of performance, appearance or durability except where they are relevant to safety.  It covers all gas appliances and components supplied with them, that use, or are designed to use, gas, whether or not they also use, or are designed to use, any other form of energy.",
+    "supersededInfo": {
+      "title": "Safety of gas appliances",
+      "link": "https://www.standards.govt.nz/shop/NZS-52662014",
+      "downloadUrl": "",
+      "status": "Current"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 5266:2014",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 5807:1980",
+    "originalDescription": "Code of practice for industrial identification by colour, wording or other coding",
+    "foundTitle": "NZS 5807:1980\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-58071980",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/466246/0?mediaTypeId=d8fab1f4-c574-475f-bff2-503c28a186b6&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Defines safety colours, safety signs and other warning indications which will aid in prevention of accidents, indication of health hazards, and location and identification of first aid and fire-fighting equipment. Defines meaning and application of colours and other indications which are recommended for identification of pipes conveying fluids in liquid or gaseous conditions; and identification of conduit and ducting enclosing electric services. Makes provision for identification of contents of industrial gas cylinders.  Approved electrical safety Standard.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 5807:1980",
+    "status": "Current",
+    "tags": [
+      "Fire Safety",
+      "Electrical"
+    ],
+    "replaces": [],
+    "categories": [
+      "Waste and Health"
+    ]
+  },
+  {
+    "originalNumber": "NZS 6104:1981",
+    "originalDescription": "Specification for emergency electricity supply in buildings",
+    "foundTitle": "NZS 6104:1981\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-61041981",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/451738/0?mediaTypeId=aef89ef3-d9f9-4ac4-ad39-ede311815049&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies a means of providing an emergency electricity supply in a building served by conventional 230/400 V single-phase/three-phase reticulation. Applies to services where a short break can be readily tolerated. The electricity source specified is a generator driven by a diesel engine or a gas turbine. Sets out requirements for this generating plant and its accommodation: specifies the emergency loads to be supplied, and the wiring distribution within the building; and describes the actions necessary to commission and maintain the installation.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 6104:1981",
+    "status": "Current",
+    "tags": [
+      "Electrical"
+    ],
+    "replaces": [],
+    "categories": [
+      "Electrical and Gas"
+    ]
+  },
+  {
+    "originalNumber": "NZS 6214:1988",
+    "originalDescription": "Thermostats and thermal cutouts for domestic thermal storage electric water heaters (alternating current only)",
+    "foundTitle": "NZS 6214:1988\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-62141988",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/468313/0?mediaTypeId=1bd34e73-a108-49c6-8e10-d929ce0feb5b&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Covers consumer adjustable thermostats (immersion and contact types) and non-self-resettable thermal cutouts either as separate or combined units. Specifies design and construction, dimensions, temperature settings, operational requirements, marking and performance, and testing.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 6214:1988",
+    "status": "Current",
+    "tags": [
+      "Plumbing",
+      "Electrical",
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": [
+      "Electrical and Gas"
+    ]
+  },
+  {
+    "originalNumber": "NZS 6703:1984",
+    "originalDescription": "Code of practice for interior lighting design",
+    "foundTitle": "NZS 6703:1984\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/ASNZS-1680-2-52018",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/452782/0?mediaTypeId=f3c53055-88a1-4ba1-a307-49bafd984d62&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Deals with the design of interior lighting, primarily in workplaces, taking into account both natural and artificial lighting, and relates the lighting to energy use. The code also covers the maintenance of lighting systems and their measurement. The code is concerned primarily with workplaces, but can have application to many recreational and circulation spaces (but not where special effects are to be designed). Extensive tables for lighting level and glare index are included, along with detached calculation charts and procedures.",
+    "supersededInfo": {
+      "title": "Interior and workplace lighting - Part 2.5: Hospital and medical tasks",
+      "link": "https://www.standards.govt.nz/shop/ASNZS-1680-2-52018",
+      "downloadUrl": "",
+      "status": "Current"
+    },
+    "isSponsored": true,
+    "standardTitle": "ASNZS 1680.2 5:2018",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Energy"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 7601:1978",
+    "originalDescription": "Specification for polyethylene pipe (Type 3\\) for cold water services",
+    "foundTitle": "NZS 7601:1978\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-76011978",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/453316/0?mediaTypeId=524d5203-561b-4cb2-b575-a642d2ac808a&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the material, dimensions, properties, tests and marking requirements for black polyethylene pipe of Type 3 for use in cold water services, and in flush, overflow, warning and waste-pipe applications. The type designation refers to the maximum working stress of the material at 20 degrees C, in megapascals, when in pipe form.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 7601:1978",
+    "status": "Current",
+    "tags": [
+      "Land Development",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 7602:1977",
+    "originalDescription": "Specification for polyethylene pipe (Type 5\\) for cold water services",
+    "foundTitle": "NZS 7602:1977\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-76021977",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/453319/0?mediaTypeId=f11b288f-a2d9-411c-9fc2-972de296b2e7&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out the material, dimensions, properties, tests and marking requirements for black polyethylene pipe of Type 5 for use in cold water services, and in flush, overflow, warning and waste-pipe applications. The type designation refers to the maximum working stress of the material at 20oC, in megapascals, when in pipe form.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 7602:1977",
+    "status": "Current",
+    "tags": [
+      "Land Development",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 7610:1991",
+    "originalDescription": "Blue polyethylene pipes up to nominal size 63 for below ground use for potable water",
+    "foundTitle": "NZS 7610:1991\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-76101991",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/453361/0?mediaTypeId=18a16253-82dd-40af-8194-f9fca309d728&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies requirements for small sizes of pipe in metric series diameters coloured blue for carrying potable water, especially underground or in ducts with other services. Suitable for water authority use in respect of requirements for protecting water quality.  Identical to BS 6572:1985 with modifications for New Zealand.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 7610:1991",
+    "status": "Current",
+    "tags": [
+      "Land Development",
+      "Plumbing"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 7646:1978",
+    "originalDescription": "Specification for polyethylene pipes and fittings for gas reticulation",
+    "foundTitle": "NZS 7646:1978\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-76461978",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/453400/0?mediaTypeId=f3406956-c1d2-44da-b7fa-1c8e33bbb3d0&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies the material, dimensions, properties, tests, colour and marking requirements for polyethylene pipes and fusion fittings for use in gas mains and services. Provides for 5 classes of pipe having standard dimension ratios (SDR) of 11, 17, 21, 26 and 32 suitable for maximum pressures of 100 to 420 kPa.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 7646:1978",
+    "status": "Current",
+    "tags": [
+      "Land Development"
+    ],
+    "replaces": [],
+    "categories": [
+      "Water and Plumbing"
+    ]
+  },
+  {
+    "originalNumber": "NZS 8500:2006",
+    "originalDescription": "Safety barriers and fences around swimming pools, spas and hot tubs",
+    "foundTitle": "NZS 8500:2006\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/NZS-85002006",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/468634/0?mediaTypeId=363c521b-f60f-4f43-9012-a96b120a96ea&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Barriers like fences restrict unsupervised access to residential pools and help reduce young children drowning. Options for the location of effective safety barriers that will restrict the access of young children to swimming pools are provided, and requirements for the design, construction and performance of fences, gates, retaining walls and door sets intended to form a barrier to restrict access of young children to swimming pools are specified. To use these methods to verify compliance with the New Zealand Building Code for residential pool barriers, they must be read along with Acceptable Solution F9/AS1.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 8500:2006",
+    "status": "Current",
+    "tags": [
+      "Management Systems"
+    ],
+    "replaces": [],
+    "categories": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "originalNumber": "SNZ HB 8630:2004",
+    "originalDescription": "Tracks and outdoor visitor structures",
+    "foundTitle": "SNZ HB 8630:2004\n                    \n                    Current",
+    "link": "https://www.standards.govt.nz/shop/SNZ-HB-86302004",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/468718/0?mediaTypeId=28ccf387-8e7c-4599-9506-1efa56e78ad9&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Provides specifications for those responsible for designing, constructing, maintaining, and/or managing tracks and outdoor visitor structures.  Use of these specifications will ensure that tracks and outdoor visitor structures provide the right level of service to meet visitor recreation and safety needs, and will help protect the facilities and the environment from damage.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "SNZ HB 8630:2004",
+    "status": "Current",
+    "tags": [
+      "Management Systems"
+    ],
+    "replaces": [],
+    "categories": [
+      "Building Standards"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4203:1992 Volumes 1 & 2",
+    "originalDescription": "General structural design and design loadings for buildings",
+    "foundTitle": "NZS 4203:1992 Volumes 1 & 2\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-1170-52004-EXCLUDES-AMDT-1",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/473698/0?mediaTypeId=183fe16b-7078-eb11-a812-000d3ad1702d&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out in limit state format requirements for general structural design and design loadings for buildings, including the supports for services entering and within buildings, parts of buildings and pedestrian bridges within building sites. Design loadings include those from dead and live loads, earthquake forces, wind forces, snow loads, rainwater ponding loads, ice loads, soil loads and ground water loads.  Approved electrical safety Standard.  Reprinted to append Corrigendum 1:1994.",
+    "supersededInfo": {
+      "title": "Structural design actions - Part 5: Earthquake actions - New Zealand",
+      "link": "https://www.standards.govt.nz/shop/NZS-1170-52004-EXCLUDES-AMDT-1",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/473698/0?mediaTypeId=183fe16b-7078-eb11-a812-000d3ad1702d&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 1170.5:2004 EXCLUDES AMDT 1",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Insulation & Energy",
+      "Plumbing",
+      "Geotechnical",
+      "Soil",
+      "Electrical",
+      "Seismic"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4223.3:1993",
+    "originalDescription": "Code of practice for glazing in buildings – Human impact safety requirements",
+    "foundTitle": "NZS 4223.3:1993\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-4223-32016",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447055/0?mediaTypeId=26dc59f4-62fb-4a90-a325-05297c0edf62&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Sets out minimum requirements for glazing in buildings in locations where it could be subject to human impact with the intention of reducing the risk of personal injury.  Supersedes clauses 103.4.3 and 103.5 of NZS 4223:1985 `Glazing in buildings`",
+    "supersededInfo": {
+      "title": "Glazing in buildings - Part 3: Human impact safety requirements",
+      "link": "https://www.standards.govt.nz/shop/NZS-4223-32016",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/447055/0?mediaTypeId=26dc59f4-62fb-4a90-a325-05297c0edf62&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "CurrentSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4223.3:2016",
+    "status": "Current",
+    "isCurrentOverride": true,
+    "tags": [
+      "Insulation & Energy",
+      "Glazing"
+    ],
+    "replaces": [],
+    "categories": []
+  },
+  {
+    "originalNumber": "NZS 4510:1978",
+    "originalDescription": "Code of practice for riser mains for fire service use",
+    "foundTitle": "NZS 4510:1978\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45101978",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447832/0?mediaTypeId=42793487-5e07-4b8e-9ac1-b7b168ae9639&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies the design, construction, performance testing and water supply requirements for wet and dry riser mains systems, for fire brigade use.  Referenced in BIA Approved Document C3.",
+    "supersededInfo": {
+      "title": "Fire hydrant systems for buildings",
+      "link": "https://www.standards.govt.nz/shop/NZS-45101998",
+      "downloadUrl": "https://www.standards.govt.nz/product-download/download/447835/0?mediaTypeId=d341373f-4c1d-4cf2-a52a-7c7f05e59b32&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+      "status": "SupersededSponsored"
+    },
+    "isSponsored": true,
+    "standardTitle": "NZS 4510:1978",
+    "status": "Superseded",
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": [
+      "Fire Protection"
+    ]
+  },
+  {
+    "originalNumber": "NZS 4510:1998",
+    "originalDescription": "Fire hydrant systems for buildings",
+    "foundTitle": "NZS 4510:1998\n                    \n                    Superseded",
+    "link": "https://www.standards.govt.nz/shop/NZS-45101998",
+    "downloadUrl": "https://www.standards.govt.nz/product-download/download/447835/0?mediaTypeId=d341373f-4c1d-4cf2-a52a-7c7f05e59b32&formatId=1bd170ba-2514-eb11-a812-000d3a6aa268&intlStandard=",
+    "abstract": "Specifies the design, installation, commissioning and testing of fire hydrant systems within buildings.",
+    "supersededInfo": null,
+    "isSponsored": true,
+    "standardTitle": "NZS 4510:1998",
+    "status": "Superseded",
+    "tags": [
+      "Fire & Emergency",
+      "Fire Safety"
+    ],
+    "replaces": [],
+    "categories": [
+      "Fire Protection"
+    ]
+  }
+]

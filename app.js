@@ -1,10 +1,12 @@
 let standardsData = [];
 let activeTags = new Set();
+let activeCategories = new Set();
 let searchQuery = "";
 let showLatestOnly = true;
 
 const grid = document.getElementById('standards-grid');
 const tagCloud = document.getElementById('tag-cloud');
+const categoryList = document.getElementById('category-list');
 const searchInput = document.getElementById('search-input');
 const latestToggle = document.getElementById('latest-only');
 const resultCount = document.getElementById('result-count');
@@ -18,9 +20,10 @@ const closeSidebarBtn = document.getElementById('close-sidebar');
 
 async function init() {
     try {
-        const response = await fetch('sponsored-links.json');
+        const response = await fetch('final-standards.json');
         standardsData = await response.json();
         
+        renderCategories();
         renderTags();
         renderStandards();
         
@@ -51,6 +54,45 @@ async function init() {
     } catch (error) {
         console.error("Failed to load data:", error);
     }
+}
+
+function renderCategories() {
+    const categories = {};
+    standardsData.forEach(item => {
+        if (item.categories) {
+            item.categories.forEach(cat => {
+                categories[cat] = (categories[cat] || 0) + 1;
+            });
+        }
+    });
+
+    categoryList.innerHTML = '';
+    
+    // Sort categories alphabetically
+    Object.keys(categories).sort().forEach(cat => {
+        const itemEl = document.createElement('div');
+        itemEl.className = 'category-item';
+        itemEl.innerHTML = `
+            <span>${cat}</span>
+            <span class="category-count">${categories[cat]}</span>
+        `;
+        itemEl.onclick = () => toggleCategory(cat, itemEl);
+        categoryList.appendChild(itemEl);
+    });
+}
+
+function toggleCategory(cat, el) {
+    if (activeCategories.has(cat)) {
+        activeCategories.delete(cat);
+        el.classList.remove('active');
+    } else {
+        activeCategories.add(cat);
+        el.classList.add('active');
+    }
+    renderStandards();
+    
+    // On mobile, close sidebar if only one category selected (optional behavior)
+    // if (window.innerWidth <= 768) closeSidebar();
 }
 
 function renderTags() {
@@ -110,6 +152,13 @@ function renderStandards() {
         );
     }
 
+    // Filter by Categories
+    if (activeCategories.size > 0) {
+        filtered = filtered.filter(item => 
+            item.categories && item.categories.some(c => activeCategories.has(c))
+        );
+    }
+
     // Apply "Latest Only" filter
     if (showLatestOnly) {
         filtered = filtered.filter(item => item.status === 'Current');
@@ -143,6 +192,7 @@ function renderStandards() {
             ` : ''}
 
             <div class="card-tags">
+                ${(item.categories || []).map(c => `<span class="card-tag-small" style="background:var(--color-ok-1); color:white; border:none;">${c}</span>`).join('')}
                 ${(item.tags || []).slice(0, 3).map(t => `<span class="card-tag-small">${t}</span>`).join('')}
                 ${item.tags && item.tags.length > 3 ? `<span class="card-tag-more">+${item.tags.length - 3}</span>` : ''}
             </div>
@@ -178,6 +228,13 @@ function showModal(item) {
             ${item.replaces && item.replaces.length > 0 ? `
                 <h3>Historical Versions</h3>
                 <p>This standard replaces: ${item.replaces.join(', ')}</p>
+            ` : ''}
+            
+            ${item.categories && item.categories.length > 0 ? `
+                <h3>Industry Categories</h3>
+                <div class="modal-tags">
+                    ${item.categories.map(c => `<span class="category-item active" style="display:inline-flex; padding:0.4rem 0.8rem; margin-right:0.5rem; border-radius:6px; font-size:0.8rem;">${c}</span>`).join('')}
+                </div>
             ` : ''}
 
             <h3>Classification</h3>

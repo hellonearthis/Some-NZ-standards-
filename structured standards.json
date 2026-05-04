@@ -1,0 +1,123 @@
+{
+  "NZ_Standards": {
+    "General": [
+      "building-code-handbook-3rd-edition-amendment-13.pdf"
+    ],
+    "Building Standards": [
+      "NZS 4121_2001.pdf",
+      "NZS3902-2004.pdf",
+      "NZS3902-2004.pdf",
+      "SNZ HB 8630_2004.pdf"
+    ],
+    "Electrical and Gas": [
+      "NZS 6104_1981.pdf",
+      "NZS 6214_1988.pdf",
+      "SNZ-PAS-60122022.pdf"
+    ],
+    "Fire Protection": [
+      "NZS 4510_1978.pdf",
+      "NZS 4510_1998.pdf",
+      "NZS 4510_2022.pdf",
+      "NZS 4512_2021.pdf",
+      "NZS 4514_2021.pdf",
+      "NZS 4515_2009.pdf",
+      "NZS 4517_2010.pdf",
+      "NZS 4520_2010.pdf"
+    ],
+    "Geotechnical Engineering": [
+      "NZS 4402.2.2_1986.pdf",
+      "NZS 4402.2.4_1986.pdf",
+      "NZS 4402.2.8.1_1986.pdf",
+      "NZS 4402.2.8.2_1986.pdf",
+      "NZS 4402.2.8.3_1986.pdf",
+      "NZS 4402.2.8.4_1986.pdf",
+      "NZS 4402.4.1.1_1986.pdf",
+      "NZS 4402.4.2.1_1988.pdf",
+      "NZS 4402.4.2.2_1988.pdf",
+      "NZS 4402.4.2.3_1988.pdf",
+      "NZS 4402.5.1.1_1986.pdf",
+      "NZS 4431_2022.pdf"
+    ],
+    "Glazing and Masonry": [
+      "NZS 4210_2001.pdf",
+      "NZS 4217_1980.pdf",
+      "NZS 4219_2009.pdf",
+      "NZS 4223.1_2008.pdf",
+      "NZS 4223.2_2016.pdf",
+      "NZS 4223.3_2016.pdf",
+      "NZS 4223.4_2008.pdf",
+      "NZS 4229_2013.pdf",
+      "NZS 4230_2004.pdf",
+      "NZS 4251.1_2007.pdf",
+      "NZS-4223-32016-EXCLUDING-AMENDMENT-1.pdf",
+      "NZS-42292013.pdf",
+      "NZS-4232-21988-EXCLUDES-AMDT-1.pdf"
+    ],
+    "Miscellaneous": [
+      "NZS 4206_1992.pdf",
+      "NZS 4442_1988.pdf",
+      "NZS 8500_2006.pdf",
+      "NZS-22952006-EXCLUDING-AMENDMENT-1.pdf"
+    ],
+    "Seismic and Earth": [
+      "NZS 4297_2024.pdf",
+      "NZS 4298_2024.pdf",
+      "NZS 4299_2024.pdf",
+      "NZS-1170-5-SUPP-12004-EXCLUDES-AMDT-1.pdf",
+      "NZS-1170-52004-EXCLUDES-AMDT-1.pdf"
+    ],
+    "Structural Concrete": [
+      "NZS 3106_2009.pdf",
+      "NZS 3109_1997.pdf",
+      "NZS 3112.2_1986.pdf",
+      "NZS 3114_1987.pdf",
+      "NZS 3116_2002.pdf",
+      "NZS-3101-1-AND-22006-INC-A1-A2-A3.pdf"
+    ],
+    "Structural Steel": [
+      "NZS 3404 Parts 1 and 2_1997.pdf",
+      "NZS 3501_1976.pdf",
+      "SNZ TS 3404_2018.pdf"
+    ],
+    "Thermal and Energy": [
+      "NZS 4214_2006.pdf",
+      "NZS 4218_2009.pdf",
+      "NZS 4243.1_2007.pdf",
+      "NZS 4243.2_2007.pdf",
+      "NZS 4246_2016.pdf",
+      "SNZ HB 4236_2002.pdf",
+      "SNZ TS 4211_2022.pdf"
+    ],
+    "Timber Construction": [
+      "NZS 3602_2003.pdf",
+      "NZS 3604_2011.pdf",
+      "NZS 3605_2001.pdf",
+      "NZS 3617_1979.pdf",
+      "NZS 3622_2004.pdf",
+      "NZS 3631_1988.pdf",
+      "NZS 3640_2003.pdf"
+    ],
+    "Waste and Health": [
+      "NZS 4303_1990.pdf",
+      "NZS 4304_2002.pdf",
+      "NZS 4305_1996.pdf",
+      "NZS 4332_1997.pdf",
+      "NZS 4334_2012.pdf",
+      "NZS 5807_1980.pdf"
+    ],
+    "Water and Plumbing": [
+      "NZS 4602_1988.pdf",
+      "NZS 4603_1985.pdf",
+      "NZS 4606.1_1989.pdf",
+      "NZS 4607_1989.pdf",
+      "NZS 4608_1992.pdf",
+      "NZS 4613_1986.pdf",
+      "NZS 4614_1986.pdf",
+      "NZS 4617_1989.pdf",
+      "NZS 7601_1978.pdf",
+      "NZS 7602_1977.pdf",
+      "NZS 7610_1991.pdf",
+      "NZS 7646_1978.pdf"
+    ]
+  }
+}
