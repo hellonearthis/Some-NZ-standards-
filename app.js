@@ -1,6 +1,6 @@
 let standardsData = [];
 let activeTags = new Set();
-let activeCategories = new Set();
+let activeCategory = null;
 let searchQuery = "";
 let showLatestOnly = true;
 
@@ -68,31 +68,40 @@ function renderCategories() {
 
     categoryList.innerHTML = '';
     
+    // Add "All Standards" option
+    const allEl = document.createElement('div');
+    allEl.className = `category-item all-categories ${!activeCategory ? 'active' : ''}`;
+    allEl.innerHTML = `
+        <span>All Standards</span>
+        <span class="category-count">${standardsData.length}</span>
+    `;
+    allEl.onclick = () => selectCategory(null);
+    categoryList.appendChild(allEl);
+    
     // Sort categories alphabetically
     Object.keys(categories).sort().forEach(cat => {
         const itemEl = document.createElement('div');
-        itemEl.className = 'category-item';
+        itemEl.className = `category-item ${activeCategory === cat ? 'active' : ''}`;
         itemEl.innerHTML = `
             <span>${cat}</span>
             <span class="category-count">${categories[cat]}</span>
         `;
-        itemEl.onclick = () => toggleCategory(cat, itemEl);
+        itemEl.onclick = () => selectCategory(cat);
         categoryList.appendChild(itemEl);
     });
 }
 
-function toggleCategory(cat, el) {
-    if (activeCategories.has(cat)) {
-        activeCategories.delete(cat);
-        el.classList.remove('active');
+function selectCategory(cat) {
+    if (activeCategory === cat) {
+        activeCategory = null; // Toggle off if clicking the same one
     } else {
-        activeCategories.add(cat);
-        el.classList.add('active');
+        activeCategory = cat;
     }
+    
+    renderCategories();
     renderStandards();
     
-    // On mobile, close sidebar if only one category selected (optional behavior)
-    // if (window.innerWidth <= 768) closeSidebar();
+    if (window.innerWidth <= 768) closeSidebar();
 }
 
 function renderTags() {
@@ -153,9 +162,9 @@ function renderStandards() {
     }
 
     // Filter by Categories
-    if (activeCategories.size > 0) {
+    if (activeCategory) {
         filtered = filtered.filter(item => 
-            item.categories && item.categories.some(c => activeCategories.has(c))
+            item.categories && item.categories.includes(activeCategory)
         );
     }
 
