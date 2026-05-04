@@ -39,8 +39,8 @@ body {
   font-family: "Plus Jakarta Sans", sans-serif;
   background-color: var(--bg-main);
   color: var(--text-primary);
-  min-height: 100vh;
-  overflow-x: hidden;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .app-container {
@@ -52,6 +52,7 @@ body {
 /* Sidebar */
 .sidebar {
   width: 320px;
+  height: 100%;
   background-color: var(--bg-sidebar);
   border-right: 1px solid var(--border);
   padding: 2rem;
