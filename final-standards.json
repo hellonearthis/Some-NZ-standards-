@@ -17,7 +17,9 @@
       "Seismic"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 1000 - 2000 Series (Structural Design Actions & Materials)"
+    ]
   },
   {
     "originalNumber": "NZS 2295:2006",
@@ -34,7 +36,9 @@
       "Civil & Infrastructure"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 1000 - 2000 Series (Structural Design Actions & Materials)"
+    ]
   },
   {
     "originalNumber": "NZS 3101.1&2:2006",
@@ -55,7 +59,9 @@
       "Seismic"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 3000 Series (Concrete, Timber, Steel & General Construction)"
+    ]
   },
   {
     "originalNumber": "NZS 3106:1986",
@@ -80,7 +86,9 @@
       "Concrete"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 3000 Series (Concrete, Timber, Steel & General Construction)"
+    ]
   },
   {
     "originalNumber": "NZS 3109:1997",
@@ -541,7 +549,9 @@
       "Glazing"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4100 - 4299 Series (Energy, Glazing, Masonry & Earth Buildings)"
+    ]
   },
   {
     "originalNumber": "NZS 4219:2009",
@@ -703,7 +713,9 @@
       "Glazing"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4100 - 4299 Series (Energy, Glazing, Masonry & Earth Buildings)"
+    ]
   },
   {
     "originalNumber": "SNZ HB 4236:2002",
@@ -1202,7 +1214,9 @@
       "Soil"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4400 - 4499 Series (Soil Testing, Earthworks & Pipes)"
+    ]
   },
   {
     "originalNumber": "NZS 4442:1988",
@@ -1246,7 +1260,9 @@
       "Fire Safety"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4500 - 4699 Series (Fire Safety, Plumbing & Water Heating)"
+    ]
   },
   {
     "originalNumber": "NZS 4512:2010",
@@ -1271,7 +1287,9 @@
       "Alarms"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4500 - 4699 Series (Fire Safety, Plumbing & Water Heating)"
+    ]
   },
   {
     "originalNumber": "NZS 4514:2009",
@@ -1295,7 +1313,9 @@
       "Alarms"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4500 - 4699 Series (Fire Safety, Plumbing & Water Heating)"
+    ]
   },
   {
     "originalNumber": "NZS 4515:2003",
@@ -1319,7 +1339,9 @@
       "Fire Safety"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4500 - 4699 Series (Fire Safety, Plumbing & Water Heating)"
+    ]
   },
   {
     "originalNumber": "NZS 4517:2002",
@@ -1343,7 +1365,9 @@
       "Fire Safety"
     ],
     "replaces": [],
-    "categories": []
+    "categories": [
+      "NZS 4500 - 4699 Series (Fire Safety, Plumbing & Water Heating)"
+    ]
   },
   {
     "originalNumber": "NZS 4520:2010",

@@ -1,24 +1,33 @@
 const fs = require('fs');
 
 const mainData = JSON.parse(fs.readFileSync('sponsored-links.json', 'utf8'));
-const structuredData = JSON.parse(fs.readFileSync('structured standards.json', 'utf8')).NZ_Standards;
+const structuredData = JSON.parse(fs.readFileSync('st.txt', 'utf8'));
 
 // Map to help find standard by title or number
 const findStandard = (filename) => {
-    // Normalize filename: remove .pdf, replace _ with : or space
-    const base = filename.replace('.pdf', '');
-    const normalized = base.replace(/_/g, ':').toLowerCase();
-    const normalizedSpace = base.replace(/_/g, ' ').toLowerCase();
+    // Normalize filename: remove [PDF], remove .pdf
+    const base = filename.replace(' [PDF]', '').replace('.pdf', '').toLowerCase();
+    const cleanBase = base.replace(/[^a-z0-9]/g, '');
     
     return mainData.find(item => {
         const itemNumber = item.originalNumber.toLowerCase();
-        const itemTitle = item.standardTitle ? item.standardTitle.toLowerCase() : '';
-        const itemSafeTitle = (item.standardTitle || item.originalNumber).replace(/[\/\\?%*:|"<>]/g, '-').toLowerCase();
+        const cleanNumber = itemNumber.replace(/[^a-z0-9]/g, '');
         
-        return itemNumber.includes(normalized) || 
-               normalized.includes(itemNumber) || 
-               itemTitle.includes(normalizedSpace) ||
-               itemSafeTitle === base.toLowerCase();
+        const itemTitle = item.standardTitle ? item.standardTitle.toLowerCase() : '';
+        const cleanTitle = itemTitle.replace(/[^a-z0-9]/g, '');
+
+        // Check link slug
+        const linkParts = item.link.split('/');
+        const slug = linkParts[linkParts.length - 1].toLowerCase();
+        const cleanSlug = slug.replace(/[^a-z0-9]/g, '');
+        
+        return cleanNumber === cleanBase || 
+               cleanBase.includes(cleanNumber) || 
+               cleanNumber.includes(cleanBase) ||
+               cleanTitle.includes(cleanBase) ||
+               cleanSlug === cleanBase ||
+               cleanSlug.includes(cleanBase) ||
+               cleanBase.includes(cleanSlug);
     });
 };
 
