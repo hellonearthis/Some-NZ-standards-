@@ -11,6 +11,10 @@ const resultCount = document.getElementById('result-count');
 const modal = document.getElementById('modal');
 const modalBody = document.getElementById('modal-body');
 const closeModal = document.querySelector('.close-modal');
+const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+const sidebar = document.getElementById('sidebar');
+const sidebarOverlay = document.getElementById('sidebar-overlay');
+const closeSidebarBtn = document.getElementById('close-sidebar');
 
 async function init() {
     try {
@@ -32,7 +36,17 @@ async function init() {
         });
 
         closeModal.onclick = () => modal.style.display = 'none';
-        window.onclick = (e) => { if (e.target == modal) modal.style.display = 'none'; };
+        window.onclick = (e) => { 
+            if (e.target == modal) modal.style.display = 'none'; 
+            if (e.target == sidebarOverlay) closeSidebar();
+        };
+
+        mobileMenuToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('active');
+            sidebarOverlay.classList.toggle('active');
+        });
+
+        closeSidebarBtn.addEventListener('click', closeSidebar);
 
     } catch (error) {
         console.error("Failed to load data:", error);
@@ -64,6 +78,16 @@ function toggleTag(tag, el) {
         el.classList.add('active');
     }
     renderStandards();
+    
+    // Close sidebar on mobile after selecting a tag
+    if (window.innerWidth <= 768) {
+        closeSidebar();
+    }
+}
+
+function closeSidebar() {
+    sidebar.classList.remove('active');
+    sidebarOverlay.classList.remove('active');
 }
 
 function renderStandards() {
